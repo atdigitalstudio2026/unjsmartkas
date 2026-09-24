@@ -1,0 +1,6 @@
+{
+  "name": "KasKampus - Buku Kas & Transparansi Kampus",
+  "description": "Aplikasi pencatatan kas organisasi kampus, buku kas terdesentralisasi, transparansi iuran anggota, dan pelaporan LPJ keuangan mahasiswa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
